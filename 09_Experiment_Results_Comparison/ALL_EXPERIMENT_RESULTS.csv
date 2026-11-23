@@ -1,0 +1,10 @@
+Experiment,Evaluation,Test size,Internal accuracy percent,External accuracy percent,Interpretation
+Original fleeing vs wandering (24 permutations),Internal video-level,40 source videos,90.00,Not comparable with external,Original baseline; 24 permutations
+4 permutations,Internal video-level mean,Repeated comparison runs,87.50,Not separately evaluated,Mean across runs; no separate saved model binary
+8 permutations,Internal video-level mean,Repeated comparison runs,89.17,Not separately evaluated,Mean across runs; no separate saved model binary
+24 permutations,Internal video-level,40 source videos,90.00,Not separately evaluated as a separate model,Same baseline as original
+Fleeing vs feeding,Internal video-level,28 source videos,89.29,40.00,Only 5 feeding videos in internal test; 45 external clips include 2 feeding
+Fleeing vs combined,Internal video-level,45 source videos,100.00,80.00,External performance lower than internal
+Original fleeing vs wandering,External video-level,45 unseen clips,,66.67,30/45 correct
+Fleeing vs feeding,External video-level,45 unseen clips,,40.00,18/45 correct
+Fleeing vs combined,External video-level,45 unseen clips,,80.00,36/45 correct
