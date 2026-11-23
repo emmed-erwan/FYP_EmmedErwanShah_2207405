@@ -1,0 +1,12 @@
+,0
+accuracy,1.0
+balanced_accuracy,1.0
+f1_fleeing,1.0
+recall_fleeing,1.0
+recall_non_fleeing,1.0
+recall_Feeding,1.0
+count_Feeding,8.0
+recall_Fleeing,1.0
+count_Fleeing,22.0
+recall_Wandering_Passive,1.0
+count_Wandering_Passive,15.0
