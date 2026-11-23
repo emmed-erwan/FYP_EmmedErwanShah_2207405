@@ -1,0 +1,7 @@
+,Score
+Accuracy,0.8928571428571429
+Balanced Accuracy,0.7
+F1 (Fleeing),0.9387755102040817
+Fleeing Recall,1.0
+Feeding Recall,0.4
+Fleeing Precision,0.8846153846153846
