@@ -1,0 +1,15 @@
+Metric,Value
+total_videos,45.0
+correct,36.0
+accuracy,0.8
+balanced_accuracy,0.7815126050420168
+precision_fleeing,0.75
+recall_fleeing,0.7058823529411765
+f1_fleeing,0.7272727272727273
+recall_non_fleeing,0.8571428571428571
+count_Feeding,2.0
+recall_Feeding,1.0
+count_Fleeing,17.0
+recall_Fleeing,0.7058823529411765
+count_Wandering,26.0
+recall_Wandering,0.8461538461538461
